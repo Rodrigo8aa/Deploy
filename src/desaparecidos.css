@@ -1,0 +1,46 @@
+body{
+    background: rgb(255, 255, 255);
+    background-image: url(https://arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/UFQOZRZCURB4BOIRTLM3IT2HCM.jpg);  }
+
+.desaparecidos{
+    background: rgba(192, 177, 211, 0.511);
+    border-radius:5cap;
+}
+
+.nav{
+    background: rgb(156, 153, 153);
+}
+
+.login{
+    background: rgba(187, 148, 234, 0.497);
+    padding: 1px;
+
+}
+
+.barra{
+    background: rgba(240, 152, 218, 0.618);
+}
+
+.formulario{
+    background: rgba(177, 121, 255, 0.371);
+    margin: 40px;
+    height:480px;
+
+}
+
+.lista{
+    background: rgba(177, 121, 255, 0.52);
+    text-align: center;
+    width: 100%;
+    
+
+}
+
+.table{
+    background: rgba(177, 121, 255, 0.52);
+}
+
+.linea{
+    background: rgba(177, 121, 255, 0.52);
+
+}
